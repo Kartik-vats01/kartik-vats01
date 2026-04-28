@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer | Problem Solver | Continuous Learner<br><br>I build seamless digital experiences by combining intuitive frontend design with powerful backend logic.<br><br>- 💻 Crafting responsive and dynamic web apps  <br>- 🔧 Debugging, optimizing, and scaling systems  <br>- 🌱 Constantly learning new tools and technologies  <br>- ⚡ Turning ideas into real-world solutions  <br><br>Code. Learn. Build. Repeat.<br>
+Full Stack Developer | Problem Solver | Continuous Learner<br><br>I build seamless digital experiences by combining intuitive frontend design with powerful backend logic.<br><br>- 💻 Crafting responsive and dynamic web apps  <br>- 🔧 Debugging, optimizing, and scaling systems  <br>- 🌱 Constantly learning new tools and technologies  <br><br>Code. Learn. Build. Repeat.<br>
 
 
 # 💻 Tech Stack:
