@@ -10,9 +10,11 @@
 
 
 ## 🧠 My Focus Areas
-- Full Stack Developer
-- Problem Solver
-- Continuous Learner
+-🚀 Full Stack Development
+-🧩 Problem Solving
+-⚡ Performance & Optimization
+=🌱 Continuous Learning
+=🤖 Machine Learning
 
 
 ## 📊 GitHub Stats & Trophies
