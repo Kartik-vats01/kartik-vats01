@@ -10,11 +10,11 @@
 
 
 ## 🧠 My Focus Areas
--🚀 Full Stack Development
--🧩 Problem Solving
--⚡ Performance & Optimization
-=🌱 Continuous Learning
-=🤖 Machine Learning
+- 🚀 Full Stack Development
+- 🧩 Problem Solving
+- ⚡ Performance & Optimization
+- 🌱 Continuous Learning
+- 🤖 Machine Learning
 
 
 ## 📊 GitHub Stats & Trophies
